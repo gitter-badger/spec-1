@@ -11,6 +11,8 @@ of containerized processes \[ops].
 
 # Documentation
 
+[![Join the chat at https://gitter.im/opspec-io/spec](https://badges.gitter.im/opspec-io/spec.svg)](https://gitter.im/opspec-io/spec?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 see [website](https://opspec.io/spec)
 
 # ALM
